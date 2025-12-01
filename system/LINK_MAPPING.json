@@ -1,0 +1,2068 @@
+{
+  "existing_notes": {
+    "MOC - Города": "20250101_moc-cities.md",
+    "MOC - Страны": "20250101_moc-countries.md",
+    "MOC - Признаки": "20250101_moc-features.md",
+    "MOC - Map of Content (География)": "20250101_moc-map-of-content-geography.md",
+    "Россия": "20251201_russian-federation.md",
+    "Абхазия": "20251201_abkhazia.md",
+    "Афганистан": "20251201_afghanistan.md",
+    "Албания": "20251201_albania.md",
+    "Алжир": "20251201_algeria.md",
+    "Американское Самоа": "20251201_american-samoa.md",
+    "Андорра": "20251201_andorra.md",
+    "Ангола": "20251201_angola.md",
+    "Ангилья": "20251201_anguilla.md",
+    "Антарктида": "20251201_antarctica.md",
+    "Антигуа и Барбуда": "20251201_antigua-and-barbuda.md",
+    "Аргентина": "20251201_argentina.md",
+    "Армения": "20251201_armenia.md",
+    "Аруба": "20251201_aruba.md",
+    "Австралия": "20251201_australia.md",
+    "Австрия": "20251201_austria.md",
+    "Азербайджан": "20251201_azerbaijan.md",
+    "Багамы": "20251201_bahamas.md",
+    "Бахрейн": "20251201_bahrain.md",
+    "Бангладеш": "20251201_bangladesh.md",
+    "Барбадос": "20251201_barbados.md",
+    "Беларусь": "20251201_belarus.md",
+    "Бельгия": "20251201_belgium.md",
+    "Белиз": "20251201_belize.md",
+    "Бенин": "20251201_benin.md",
+    "Бермуды": "20251201_bermuda.md",
+    "Бутан": "20251201_bhutan.md",
+    "Боливия, Многонациональное Государство": "20251201_bolivia-plurinational-state-of.md",
+    "Бонайре, Саба и Синт-Эстатиус": "20251201_bonaire-sint-eustatius-and-saba.md",
+    "Босния и Герцеговина": "20251201_bosnia-and-herzegovina.md",
+    "Ботсвана": "20251201_botswana.md",
+    "Остров Буве": "20251201_bouvet-island.md",
+    "Бразилия": "20251201_brazil.md",
+    "Британская территория в Индийском океане": "20251201_british-indian-ocean-territory.md",
+    "Бруней-Даруссалам": "20251201_brunei-darussalam.md",
+    "Болгария": "20251201_bulgaria.md",
+    "Буркина-Фасо": "20251201_burkina-faso.md",
+    "Бурунди": "20251201_burundi.md",
+    "Камбоджа": "20251201_cambodia.md",
+    "Камерун": "20251201_cameroon.md",
+    "Канада": "20251201_canada.md",
+    "Кабо-Верде": "20251201_cape-verde.md",
+    "Острова Кайман": "20251201_cayman-islands.md",
+    "Центрально-Африканская Республика": "20251201_central-african-republic.md",
+    "Чад": "20251201_chad.md",
+    "Чили": "20251201_chile.md",
+    "Китай": "20251201_china.md",
+    "Остров Рождества": "20251201_christmas-island.md",
+    "Кокосовые (Килинг) острова": "20251201_cocos-keeling-islands.md",
+    "Колумбия": "20251201_colombia.md",
+    "Коморы": "20251201_comoros.md",
+    "Конго, Демократическая Республика": "20251201_congo-democratic-republic-of-the.md",
+    "Конго": "20251201_congo.md",
+    "Острова Кука": "20251201_cook-islands.md",
+    "Коста-Рика": "20251201_costa-rica.md",
+    "Кот д'Ивуар": "20251201_cote-divoire.md",
+    "Хорватия": "20251201_croatia.md",
+    "Куба": "20251201_cuba.md",
+    "Кюрасао": "20251201_curaçao.md",
+    "Кипр": "20251201_cyprus.md",
+    "Чешская Республика": "20251201_czech-republic.md",
+    "Дания": "20251201_denmark.md",
+    "Джибути": "20251201_djibouti.md",
+    "Доминика": "20251201_dominica.md",
+    "Доминиканская Республика": "20251201_dominican-republic.md",
+    "Эквадор": "20251201_ecuador.md",
+    "Египет": "20251201_egypt.md",
+    "Эль-Сальвадор": "20251201_el-salvador.md",
+    "Экваториальная Гвинея": "20251201_equatorial-guinea.md",
+    "Эритрея": "20251201_eritrea.md",
+    "Эстония": "20251201_estonia.md",
+    "Эсватини": "20251201_eswatini.md",
+    "Эфиопия": "20251201_ethiopia.md",
+    "Фолклендские острова (Мальвинские)": "20251201_falkland-islands-malvinas.md",
+    "Фарерские острова": "20251201_faroe-islands.md",
+    "Фиджи": "20251201_fiji.md",
+    "Финляндия": "20251201_finland.md",
+    "Франция": "20251201_france.md",
+    "Французская Гвиана": "20251201_french-guiana.md",
+    "Французская Полинезия": "20251201_french-polynesia.md",
+    "Французские Южные территории": "20251201_french-southern-territories.md",
+    "Габон": "20251201_gabon.md",
+    "Гамбия": "20251201_gambia.md",
+    "Грузия": "20251201_georgia.md",
+    "Германия": "20251201_germany.md",
+    "Гана": "20251201_ghana.md",
+    "Гибралтар": "20251201_gibraltar.md",
+    "Греция": "20251201_greece.md",
+    "Гренландия": "20251201_greenland.md",
+    "Гренада": "20251201_grenada.md",
+    "Гваделупа": "20251201_guadeloupe.md",
+    "Гуам": "20251201_guam.md",
+    "Гватемала": "20251201_guatemala.md",
+    "Гернси": "20251201_guernsey.md",
+    "Гвинея-Бисау": "20251201_guinea-bissau.md",
+    "Гвинея": "20251201_guinea.md",
+    "Гайана": "20251201_guyana.md",
+    "Гаити": "20251201_haiti.md",
+    "Остров Херд и острова Макдональд": "20251201_heard-island-and-mcdonald-islands.md",
+    "Папский Престол (Государство — город Ватикан)": "20251201_holy-see-vatican-city-state.md",
+    "Гондурас": "20251201_honduras.md",
+    "Гонконг": "20251201_hong-kong.md",
+    "Венгрия": "20251201_hungary.md",
+    "Исландия": "20251201_iceland.md",
+    "Индия": "20251201_india.md",
+    "Индонезия": "20251201_indonesia.md",
+    "Иран, Исламская Республика": "20251201_iran-islamic-republic-of.md",
+    "Ирак": "20251201_iraq.md",
+    "Ирландия": "20251201_ireland.md",
+    "Остров Мэн": "20251201_isle-of-man.md",
+    "Израиль": "20251201_israel.md",
+    "Италия": "20251201_italy.md",
+    "Ямайка": "20251201_jamaica.md",
+    "Япония": "20251201_japan.md",
+    "Джерси": "20251201_jersey.md",
+    "Иордания": "20251201_jordan.md",
+    "Казахстан": "20251201_kazakhstan.md",
+    "Кения": "20251201_kenya.md",
+    "Кирибати": "20251201_kiribati.md",
+    "Корея, Народно-Демократическая Республика": "20251201_korea-democratic-peoples-republic-of.md",
+    "Корея, Республика": "20251201_korea-republic-of.md",
+    "Кувейт": "20251201_kuwait.md",
+    "Киргизия": "20251201_kyrgyzstan.md",
+    "Лаос": "20251201_lao-peoples-democratic-republic.md",
+    "Латвия": "20251201_latvia.md",
+    "Ливан": "20251201_lebanon.md",
+    "Лесото": "20251201_lesotho.md",
+    "Либерия": "20251201_liberia.md",
+    "Ливийская Арабская Джамахирия": "20251201_libyan-arab-jamahiriya.md",
+    "Лихтенштейн": "20251201_liechtenstein.md",
+    "Литва": "20251201_lithuania.md",
+    "Люксембург": "20251201_luxembourg.md",
+    "Макао": "20251201_macao.md",
+    "Республика Македония": "20251201_macedonia-the-former-yugoslav-republic-of.md",
+    "Мадагаскар": "20251201_madagascar.md",
+    "Малави": "20251201_malawi.md",
+    "Малайзия": "20251201_malaysia.md",
+    "Мальдивы": "20251201_maldives.md",
+    "Мали": "20251201_mali.md",
+    "Мальта": "20251201_malta.md",
+    "Маршалловы острова": "20251201_marshall-islands.md",
+    "Мартиника": "20251201_martinique.md",
+    "Мавритания": "20251201_mauritania.md",
+    "Маврикий": "20251201_mauritius.md",
+    "Майотта": "20251201_mayotte.md",
+    "Мексика": "20251201_mexico.md",
+    "Микронезия, Федеративные Штаты": "20251201_micronesia-federated-states-of.md",
+    "Молдова, Республика": "20251201_moldova.md",
+    "Монако": "20251201_monaco.md",
+    "Монголия": "20251201_mongolia.md",
+    "Черногория": "20251201_montenegro.md",
+    "Монтсеррат": "20251201_montserrat.md",
+    "Марокко": "20251201_morocco.md",
+    "Мозамбик": "20251201_mozambique.md",
+    "Мьянма": "20251201_myanmar.md",
+    "Намибия": "20251201_namibia.md",
+    "Науру": "20251201_nauru.md",
+    "Непал": "20251201_nepal.md",
+    "Нидерланды": "20251201_netherlands.md",
+    "Новая Каледония": "20251201_new-caledonia.md",
+    "Новая Зеландия": "20251201_new-zealand.md",
+    "Никарагуа": "20251201_nicaragua.md",
+    "Нигер": "20251201_niger.md",
+    "Нигерия": "20251201_nigeria.md",
+    "Ниуэ": "20251201_niue.md",
+    "Остров Норфолк": "20251201_norfolk-island.md",
+    "Северные Марианские острова": "20251201_northern-mariana-islands.md",
+    "Норвегия": "20251201_norway.md",
+    "Оман": "20251201_oman.md",
+    "Пакистан": "20251201_pakistan.md",
+    "Палау": "20251201_palau.md",
+    "Палестинская территория, оккупированная": "20251201_palestinian-territory-occupied.md",
+    "Панама": "20251201_panama.md",
+    "Папуа-Новая Гвинея": "20251201_papua-new-guinea.md",
+    "Парагвай": "20251201_paraguay.md",
+    "Перу": "20251201_peru.md",
+    "Филиппины": "20251201_philippines.md",
+    "Питкерн": "20251201_pitcairn.md",
+    "Польша": "20251201_poland.md",
+    "Португалия": "20251201_portugal.md",
+    "Пуэрто-Рико": "20251201_puerto-rico.md",
+    "Катар": "20251201_qatar.md",
+    "Реюньон": "20251201_reunion.md",
+    "Румыния": "20251201_romania.md",
+    "Руанда": "20251201_rwanda.md",
+    "Сен-Бартельми": "20251201_saint-barthélemy.md",
+    "Святая Елена, Остров вознесения, Тристан-да-Кунья": "20251201_saint-helena-ascension-and-tristan-da-cunha.md",
+    "Сент-Китс и Невис": "20251201_saint-kitts-and-nevis.md",
+    "Сент-Люсия": "20251201_saint-lucia.md",
+    "Сен-Мартен": "20251201_saint-martin-french-part.md",
+    "Сент-Пьер и Микелон": "20251201_saint-pierre-and-miquelon.md",
+    "Сент-Винсент и Гренадины": "20251201_saint-vincent-and-the-grenadines.md",
+    "Самоа": "20251201_samoa.md",
+    "Сан-Марино": "20251201_san-marino.md",
+    "Сан-Томе и Принсипи": "20251201_sao-tome-and-principe.md",
+    "Саудовская Аравия": "20251201_saudi-arabia.md",
+    "Сенегал": "20251201_senegal.md",
+    "Сербия": "20251201_serbia.md",
+    "Сейшелы": "20251201_seychelles.md",
+    "Сьерра-Леоне": "20251201_sierra-leone.md",
+    "Сингапур": "20251201_singapore.md",
+    "Синт-Мартен": "20251201_sint-maarten.md",
+    "Словакия": "20251201_slovakia.md",
+    "Словения": "20251201_slovenia.md",
+    "Соломоновы острова": "20251201_solomon-islands.md",
+    "Сомали": "20251201_somalia.md",
+    "Южная Африка": "20251201_south-africa.md",
+    "Южная Джорджия и Южные Сандвичевы острова": "20251201_south-georgia-and-the-south-sandwich-islands.md",
+    "Южная Осетия": "20251201_south-ossetia.md",
+    "Южный Судан": "20251201_south-sudan.md",
+    "Испания": "20251201_spain.md",
+    "Шри-Ланка": "20251201_sri-lanka.md",
+    "Судан": "20251201_sudan.md",
+    "Суринам": "20251201_suriname.md",
+    "Шпицберген и Ян Майен": "20251201_svalbard-and-jan-mayen.md",
+    "Швеция": "20251201_sweden.md",
+    "Швейцария": "20251201_switzerland.md",
+    "Сирийская Арабская Республика": "20251201_syrian-arab-republic.md",
+    "Тайвань (Китай)": "20251201_taiwan-province-of-china.md",
+    "Таджикистан": "20251201_tajikistan.md",
+    "Танзания, Объединенная Республика": "20251201_tanzania-united-republic-of.md",
+    "Таиланд": "20251201_thailand.md",
+    "Тимор-Лесте": "20251201_timor-leste.md",
+    "Того": "20251201_togo.md",
+    "Токелау": "20251201_tokelau.md",
+    "Тонга": "20251201_tonga.md",
+    "Тринидад и Тобаго": "20251201_trinidad-and-tobago.md",
+    "Тунис": "20251201_tunisia.md",
+    "Турция": "20251201_turkey.md",
+    "Туркмения": "20251201_turkmenistan.md",
+    "Острова Теркс и Кайкос": "20251201_turks-and-caicos-islands.md",
+    "Тувалу": "20251201_tuvalu.md",
+    "Уганда": "20251201_uganda.md",
+    "Украина": "20251201_ukraine.md",
+    "Объединенные Арабские Эмираты": "20251201_united-arab-emirates.md",
+    "Соединенное Королевство": "20251201_united-kingdom.md",
+    "Малые Тихоокеанские отдаленные острова Соединенных Штатов": "20251201_united-states-minor-outlying-islands.md",
+    "Соединенные Штаты": "20251201_united-states.md",
+    "Уругвай": "20251201_uruguay.md",
+    "Узбекистан": "20251201_uzbekistan.md",
+    "Вануату": "20251201_vanuatu.md",
+    "Венесуэла Боливарианская Республика": "20251201_venezuela.md",
+    "Вьетнам": "20251201_vietnam.md",
+    "Виргинские острова, Британские": "20251201_virgin-islands-british.md",
+    "Виргинские острова, США": "20251201_virgin-islands-us.md",
+    "Уоллис и Футуна": "20251201_wallis-and-futuna.md",
+    "Западная Сахара": "20251201_western-sahara.md",
+    "Йемен": "20251201_yemen.md",
+    "Замбия": "20251201_zambia.md",
+    "Зимбабве": "20251201_zimbabwe.md",
+    "Эландские острова": "20251201_åland-islands.md"
+  },
+  "broken_links": {
+    "20250101_moscow.md": [
+      "Москва"
+    ],
+    "20250101_paris.md": [
+      "Париж"
+    ],
+    "20250101_london.md": [
+      "Лондон"
+    ],
+    "20250101_berlin.md": [
+      "Берлин"
+    ],
+    "20250101_rome.md": [
+      "Рим"
+    ],
+    "20250101_madrid.md": [
+      "Мадрид"
+    ],
+    "20250101_tokyo.md": [
+      "Токио"
+    ],
+    "20250101_beijing.md": [
+      "Пекин"
+    ],
+    "20250101_bangkok.md": [
+      "Бангкок"
+    ],
+    "20250101_new-york.md": [
+      "Нью-Йорк"
+    ],
+    "20250101_los-angeles.md": [
+      "Лос-Анджелес"
+    ],
+    "20250101_toronto.md": [
+      "Торонто"
+    ],
+    "20250101_sydney.md": [
+      "Сидней"
+    ],
+    "20250101_auckland.md": [
+      "Окленд"
+    ],
+    "20250101_road-signs-europe.md": [
+      "Дорожные знаки Европы"
+    ],
+    "20250101_road-signs-usa.md": [
+      "Дорожные знаки США"
+    ],
+    "20250101_road-signs-asia.md": [
+      "Дорожные знаки Азии"
+    ],
+    "20250101_architectural-styles.md": [
+      "Архитектурные стили"
+    ],
+    "20250101_roof-types.md": [
+      "Типы крыш"
+    ],
+    "20250101_building-materials.md": [
+      "Материалы строительства"
+    ],
+    "20250101_vegetation-regions.md": [
+      "Растительность по регионам"
+    ],
+    "20250101_tree-types.md": [
+      "Типы деревьев"
+    ],
+    "20250101_crops.md": [
+      "Сельскохозяйственные культуры"
+    ],
+    "20250101_landscape-types.md": [
+      "Типы ландшафта"
+    ],
+    "20250101_climate-zones.md": [
+      "Климатические зоны"
+    ],
+    "20250101_road-types.md": [
+      "Типы дорог"
+    ],
+    "20250101_power-poles.md": [
+      "Электрические столбы"
+    ],
+    "20250101_fence-types.md": [
+      "Типы ограждений"
+    ],
+    "20250101_languages-signs.md": [
+      "Языки на вывесках"
+    ],
+    "20250101_alphabets.md": [
+      "Алфавиты"
+    ]
+  },
+  "all_links": {
+    "20250101_moscow.md": [
+      "Москва"
+    ],
+    "20250101_paris.md": [
+      "Париж"
+    ],
+    "20250101_london.md": [
+      "Лондон"
+    ],
+    "20250101_berlin.md": [
+      "Берлин"
+    ],
+    "20250101_rome.md": [
+      "Рим"
+    ],
+    "20250101_madrid.md": [
+      "Мадрид"
+    ],
+    "20250101_tokyo.md": [
+      "Токио"
+    ],
+    "20250101_beijing.md": [
+      "Пекин"
+    ],
+    "20250101_bangkok.md": [
+      "Бангкок"
+    ],
+    "20250101_new-york.md": [
+      "Нью-Йорк"
+    ],
+    "20250101_los-angeles.md": [
+      "Лос-Анджелес"
+    ],
+    "20250101_toronto.md": [
+      "Торонто"
+    ],
+    "20250101_sydney.md": [
+      "Сидней"
+    ],
+    "20250101_auckland.md": [
+      "Окленд"
+    ],
+    "20251201_austria.md": [
+      "Австрия"
+    ],
+    "20251201_albania.md": [
+      "Албания"
+    ],
+    "20251201_andorra.md": [
+      "Андорра"
+    ],
+    "20251201_belarus.md": [
+      "Беларусь"
+    ],
+    "20251201_belgium.md": [
+      "Бельгия"
+    ],
+    "20251201_bulgaria.md": [
+      "Болгария"
+    ],
+    "20251201_bosnia-and-herzegovina.md": [
+      "Босния и Герцеговина"
+    ],
+    "20251201_hungary.md": [
+      "Венгрия"
+    ],
+    "20251201_germany.md": [
+      "Германия"
+    ],
+    "20251201_guernsey.md": [
+      "Гернси"
+    ],
+    "20251201_gibraltar.md": [
+      "Гибралтар"
+    ],
+    "20251201_greece.md": [
+      "Греция"
+    ],
+    "20251201_denmark.md": [
+      "Дания"
+    ],
+    "20251201_jersey.md": [
+      "Джерси"
+    ],
+    "20251201_ireland.md": [
+      "Ирландия"
+    ],
+    "20251201_iceland.md": [
+      "Исландия"
+    ],
+    "20251201_spain.md": [
+      "Испания"
+    ],
+    "20251201_italy.md": [
+      "Италия"
+    ],
+    "20251201_latvia.md": [
+      "Латвия"
+    ],
+    "20251201_lithuania.md": [
+      "Литва"
+    ],
+    "20251201_liechtenstein.md": [
+      "Лихтенштейн"
+    ],
+    "20251201_luxembourg.md": [
+      "Люксембург"
+    ],
+    "20251201_malta.md": [
+      "Мальта"
+    ],
+    "20251201_moldova.md": [
+      "Молдова, Республика"
+    ],
+    "20251201_monaco.md": [
+      "Монако"
+    ],
+    "20251201_netherlands.md": [
+      "Нидерланды"
+    ],
+    "20251201_norway.md": [
+      "Норвегия"
+    ],
+    "20251201_isle-of-man.md": [
+      "Остров Мэн"
+    ],
+    "20251201_holy-see-vatican-city-state.md": [
+      "Папский Престол (Государство — город Ватикан)"
+    ],
+    "20251201_poland.md": [
+      "Польша"
+    ],
+    "20251201_portugal.md": [
+      "Португалия"
+    ],
+    "20251201_macedonia-the-former-yugoslav-republic-of.md": [
+      "Республика Македония"
+    ],
+    "20251201_russian-federation.md": [
+      "Россия"
+    ],
+    "20251201_romania.md": [
+      "Румыния"
+    ],
+    "20251201_san-marino.md": [
+      "Сан-Марино"
+    ],
+    "20251201_serbia.md": [
+      "Сербия"
+    ],
+    "20251201_slovakia.md": [
+      "Словакия"
+    ],
+    "20251201_slovenia.md": [
+      "Словения"
+    ],
+    "20251201_united-kingdom.md": [
+      "Соединенное Королевство"
+    ],
+    "20251201_ukraine.md": [
+      "Украина"
+    ],
+    "20251201_faroe-islands.md": [
+      "Фарерские острова"
+    ],
+    "20251201_finland.md": [
+      "Финляндия"
+    ],
+    "20251201_france.md": [
+      "Франция"
+    ],
+    "20251201_croatia.md": [
+      "Хорватия"
+    ],
+    "20251201_montenegro.md": [
+      "Черногория"
+    ],
+    "20251201_czech-republic.md": [
+      "Чешская Республика"
+    ],
+    "20251201_switzerland.md": [
+      "Швейцария"
+    ],
+    "20251201_sweden.md": [
+      "Швеция"
+    ],
+    "20251201_svalbard-and-jan-mayen.md": [
+      "Шпицберген и Ян Майен"
+    ],
+    "20251201_åland-islands.md": [
+      "Эландские острова"
+    ],
+    "20251201_estonia.md": [
+      "Эстония"
+    ],
+    "20251201_abkhazia.md": [
+      "Абхазия"
+    ],
+    "20251201_azerbaijan.md": [
+      "Азербайджан"
+    ],
+    "20251201_armenia.md": [
+      "Армения"
+    ],
+    "20251201_afghanistan.md": [
+      "Афганистан"
+    ],
+    "20251201_bangladesh.md": [
+      "Бангладеш"
+    ],
+    "20251201_bahrain.md": [
+      "Бахрейн"
+    ],
+    "20251201_brunei-darussalam.md": [
+      "Бруней-Даруссалам"
+    ],
+    "20251201_bhutan.md": [
+      "Бутан"
+    ],
+    "20251201_vietnam.md": [
+      "Вьетнам"
+    ],
+    "20251201_hong-kong.md": [
+      "Гонконг"
+    ],
+    "20251201_georgia.md": [
+      "Грузия"
+    ],
+    "20251201_israel.md": [
+      "Израиль"
+    ],
+    "20251201_india.md": [
+      "Индия"
+    ],
+    "20251201_indonesia.md": [
+      "Индонезия"
+    ],
+    "20251201_jordan.md": [
+      "Иордания"
+    ],
+    "20251201_iraq.md": [
+      "Ирак"
+    ],
+    "20251201_iran-islamic-republic-of.md": [
+      "Иран, Исламская Республика"
+    ],
+    "20251201_yemen.md": [
+      "Йемен"
+    ],
+    "20251201_kazakhstan.md": [
+      "Казахстан"
+    ],
+    "20251201_cambodia.md": [
+      "Камбоджа"
+    ],
+    "20251201_qatar.md": [
+      "Катар"
+    ],
+    "20251201_cyprus.md": [
+      "Кипр"
+    ],
+    "20251201_kyrgyzstan.md": [
+      "Киргизия"
+    ],
+    "20251201_china.md": [
+      "Китай"
+    ],
+    "20251201_korea-democratic-peoples-republic-of.md": [
+      "Корея, Народно-Демократическая Республика"
+    ],
+    "20251201_korea-republic-of.md": [
+      "Корея, Республика"
+    ],
+    "20251201_kuwait.md": [
+      "Кувейт"
+    ],
+    "20251201_lao-peoples-democratic-republic.md": [
+      "Лаос"
+    ],
+    "20251201_lebanon.md": [
+      "Ливан"
+    ],
+    "20251201_macao.md": [
+      "Макао"
+    ],
+    "20251201_malaysia.md": [
+      "Малайзия"
+    ],
+    "20251201_maldives.md": [
+      "Мальдивы"
+    ],
+    "20251201_mongolia.md": [
+      "Монголия"
+    ],
+    "20251201_myanmar.md": [
+      "Мьянма"
+    ],
+    "20251201_nepal.md": [
+      "Непал"
+    ],
+    "20251201_united-arab-emirates.md": [
+      "Объединенные Арабские Эмираты"
+    ],
+    "20251201_oman.md": [
+      "Оман"
+    ],
+    "20251201_christmas-island.md": [
+      "Остров Рождества"
+    ],
+    "20251201_pakistan.md": [
+      "Пакистан"
+    ],
+    "20251201_palestinian-territory-occupied.md": [
+      "Палестинская территория, оккупированная"
+    ],
+    "20251201_saudi-arabia.md": [
+      "Саудовская Аравия"
+    ],
+    "20251201_singapore.md": [
+      "Сингапур"
+    ],
+    "20251201_syrian-arab-republic.md": [
+      "Сирийская Арабская Республика"
+    ],
+    "20251201_tajikistan.md": [
+      "Таджикистан"
+    ],
+    "20251201_thailand.md": [
+      "Таиланд"
+    ],
+    "20251201_taiwan-province-of-china.md": [
+      "Тайвань (Китай)"
+    ],
+    "20251201_timor-leste.md": [
+      "Тимор-Лесте"
+    ],
+    "20251201_turkmenistan.md": [
+      "Туркмения"
+    ],
+    "20251201_turkey.md": [
+      "Турция"
+    ],
+    "20251201_uzbekistan.md": [
+      "Узбекистан"
+    ],
+    "20251201_philippines.md": [
+      "Филиппины"
+    ],
+    "20251201_sri-lanka.md": [
+      "Шри-Ланка"
+    ],
+    "20251201_south-ossetia.md": [
+      "Южная Осетия"
+    ],
+    "20251201_japan.md": [
+      "Япония"
+    ],
+    "20251201_anguilla.md": [
+      "Ангилья"
+    ],
+    "20251201_antigua-and-barbuda.md": [
+      "Антигуа и Барбуда"
+    ],
+    "20251201_argentina.md": [
+      "Аргентина"
+    ],
+    "20251201_aruba.md": [
+      "Аруба"
+    ],
+    "20251201_bahamas.md": [
+      "Багамы"
+    ],
+    "20251201_barbados.md": [
+      "Барбадос"
+    ],
+    "20251201_belize.md": [
+      "Белиз"
+    ],
+    "20251201_bermuda.md": [
+      "Бермуды"
+    ],
+    "20251201_bolivia-plurinational-state-of.md": [
+      "Боливия, Многонациональное Государство"
+    ],
+    "20251201_bonaire-sint-eustatius-and-saba.md": [
+      "Бонайре, Саба и Синт-Эстатиус"
+    ],
+    "20251201_brazil.md": [
+      "Бразилия"
+    ],
+    "20251201_venezuela.md": [
+      "Венесуэла Боливарианская Республика"
+    ],
+    "20251201_virgin-islands-british.md": [
+      "Виргинские острова, Британские"
+    ],
+    "20251201_virgin-islands-us.md": [
+      "Виргинские острова, США"
+    ],
+    "20251201_haiti.md": [
+      "Гаити"
+    ],
+    "20251201_guyana.md": [
+      "Гайана"
+    ],
+    "20251201_guadeloupe.md": [
+      "Гваделупа"
+    ],
+    "20251201_guatemala.md": [
+      "Гватемала"
+    ],
+    "20251201_honduras.md": [
+      "Гондурас"
+    ],
+    "20251201_grenada.md": [
+      "Гренада"
+    ],
+    "20251201_greenland.md": [
+      "Гренландия"
+    ],
+    "20251201_dominica.md": [
+      "Доминика"
+    ],
+    "20251201_dominican-republic.md": [
+      "Доминиканская Республика"
+    ],
+    "20251201_canada.md": [
+      "Канада"
+    ],
+    "20251201_colombia.md": [
+      "Колумбия"
+    ],
+    "20251201_costa-rica.md": [
+      "Коста-Рика"
+    ],
+    "20251201_cuba.md": [
+      "Куба"
+    ],
+    "20251201_curaçao.md": [
+      "Кюрасао"
+    ],
+    "20251201_martinique.md": [
+      "Мартиника"
+    ],
+    "20251201_mexico.md": [
+      "Мексика"
+    ],
+    "20251201_montserrat.md": [
+      "Монтсеррат"
+    ],
+    "20251201_nicaragua.md": [
+      "Никарагуа"
+    ],
+    "20251201_cayman-islands.md": [
+      "Острова Кайман"
+    ],
+    "20251201_turks-and-caicos-islands.md": [
+      "Острова Теркс и Кайкос"
+    ],
+    "20251201_panama.md": [
+      "Панама"
+    ],
+    "20251201_paraguay.md": [
+      "Парагвай"
+    ],
+    "20251201_peru.md": [
+      "Перу"
+    ],
+    "20251201_puerto-rico.md": [
+      "Пуэрто-Рико"
+    ],
+    "20251201_saint-barthélemy.md": [
+      "Сен-Бартельми"
+    ],
+    "20251201_saint-martin-french-part.md": [
+      "Сен-Мартен"
+    ],
+    "20251201_saint-vincent-and-the-grenadines.md": [
+      "Сент-Винсент и Гренадины"
+    ],
+    "20251201_saint-kitts-and-nevis.md": [
+      "Сент-Китс и Невис"
+    ],
+    "20251201_saint-lucia.md": [
+      "Сент-Люсия"
+    ],
+    "20251201_saint-pierre-and-miquelon.md": [
+      "Сент-Пьер и Микелон"
+    ],
+    "20251201_sint-maarten.md": [
+      "Синт-Мартен"
+    ],
+    "20251201_united-states.md": [
+      "Соединенные Штаты"
+    ],
+    "20251201_suriname.md": [
+      "Суринам"
+    ],
+    "20251201_trinidad-and-tobago.md": [
+      "Тринидад и Тобаго"
+    ],
+    "20251201_uruguay.md": [
+      "Уругвай"
+    ],
+    "20251201_falkland-islands-malvinas.md": [
+      "Фолклендские острова (Мальвинские)"
+    ],
+    "20251201_french-guiana.md": [
+      "Французская Гвиана"
+    ],
+    "20251201_chile.md": [
+      "Чили"
+    ],
+    "20251201_ecuador.md": [
+      "Эквадор"
+    ],
+    "20251201_el-salvador.md": [
+      "Эль-Сальвадор"
+    ],
+    "20251201_jamaica.md": [
+      "Ямайка"
+    ],
+    "20251201_algeria.md": [
+      "Алжир"
+    ],
+    "20251201_angola.md": [
+      "Ангола"
+    ],
+    "20251201_benin.md": [
+      "Бенин"
+    ],
+    "20251201_botswana.md": [
+      "Ботсвана"
+    ],
+    "20251201_burkina-faso.md": [
+      "Буркина-Фасо"
+    ],
+    "20251201_burundi.md": [
+      "Бурунди"
+    ],
+    "20251201_gabon.md": [
+      "Габон"
+    ],
+    "20251201_gambia.md": [
+      "Гамбия"
+    ],
+    "20251201_ghana.md": [
+      "Гана"
+    ],
+    "20251201_guinea.md": [
+      "Гвинея"
+    ],
+    "20251201_guinea-bissau.md": [
+      "Гвинея-Бисау"
+    ],
+    "20251201_djibouti.md": [
+      "Джибути"
+    ],
+    "20251201_egypt.md": [
+      "Египет"
+    ],
+    "20251201_zambia.md": [
+      "Замбия"
+    ],
+    "20251201_western-sahara.md": [
+      "Западная Сахара"
+    ],
+    "20251201_zimbabwe.md": [
+      "Зимбабве"
+    ],
+    "20251201_cape-verde.md": [
+      "Кабо-Верде"
+    ],
+    "20251201_cameroon.md": [
+      "Камерун"
+    ],
+    "20251201_kenya.md": [
+      "Кения"
+    ],
+    "20251201_comoros.md": [
+      "Коморы"
+    ],
+    "20251201_congo.md": [
+      "Конго"
+    ],
+    "20251201_congo-democratic-republic-of-the.md": [
+      "Конго, Демократическая Республика"
+    ],
+    "20251201_cote-divoire.md": [
+      "Кот д'Ивуар"
+    ],
+    "20251201_lesotho.md": [
+      "Лесото"
+    ],
+    "20251201_liberia.md": [
+      "Либерия"
+    ],
+    "20251201_libyan-arab-jamahiriya.md": [
+      "Ливийская Арабская Джамахирия"
+    ],
+    "20251201_mauritius.md": [
+      "Маврикий"
+    ],
+    "20251201_mauritania.md": [
+      "Мавритания"
+    ],
+    "20251201_madagascar.md": [
+      "Мадагаскар"
+    ],
+    "20251201_mayotte.md": [
+      "Майотта"
+    ],
+    "20251201_malawi.md": [
+      "Малави"
+    ],
+    "20251201_mali.md": [
+      "Мали"
+    ],
+    "20251201_morocco.md": [
+      "Марокко"
+    ],
+    "20251201_mozambique.md": [
+      "Мозамбик"
+    ],
+    "20251201_namibia.md": [
+      "Намибия"
+    ],
+    "20251201_niger.md": [
+      "Нигер"
+    ],
+    "20251201_nigeria.md": [
+      "Нигерия"
+    ],
+    "20251201_reunion.md": [
+      "Реюньон"
+    ],
+    "20251201_rwanda.md": [
+      "Руанда"
+    ],
+    "20251201_sao-tome-and-principe.md": [
+      "Сан-Томе и Принсипи"
+    ],
+    "20251201_saint-helena-ascension-and-tristan-da-cunha.md": [
+      "Святая Елена, Остров вознесения, Тристан-да-Кунья"
+    ],
+    "20251201_seychelles.md": [
+      "Сейшелы"
+    ],
+    "20251201_senegal.md": [
+      "Сенегал"
+    ],
+    "20251201_somalia.md": [
+      "Сомали"
+    ],
+    "20251201_sudan.md": [
+      "Судан"
+    ],
+    "20251201_sierra-leone.md": [
+      "Сьерра-Леоне"
+    ],
+    "20251201_tanzania-united-republic-of.md": [
+      "Танзания, Объединенная Республика"
+    ],
+    "20251201_togo.md": [
+      "Того"
+    ],
+    "20251201_tunisia.md": [
+      "Тунис"
+    ],
+    "20251201_uganda.md": [
+      "Уганда"
+    ],
+    "20251201_central-african-republic.md": [
+      "Центрально-Африканская Республика"
+    ],
+    "20251201_chad.md": [
+      "Чад"
+    ],
+    "20251201_equatorial-guinea.md": [
+      "Экваториальная Гвинея"
+    ],
+    "20251201_eritrea.md": [
+      "Эритрея"
+    ],
+    "20251201_eswatini.md": [
+      "Эсватини"
+    ],
+    "20251201_ethiopia.md": [
+      "Эфиопия"
+    ],
+    "20251201_south-africa.md": [
+      "Южная Африка"
+    ],
+    "20251201_south-sudan.md": [
+      "Южный Судан"
+    ],
+    "20251201_australia.md": [
+      "Австралия"
+    ],
+    "20251201_american-samoa.md": [
+      "Американское Самоа"
+    ],
+    "20251201_british-indian-ocean-territory.md": [
+      "Британская территория в Индийском океане"
+    ],
+    "20251201_vanuatu.md": [
+      "Вануату"
+    ],
+    "20251201_guam.md": [
+      "Гуам"
+    ],
+    "20251201_kiribati.md": [
+      "Кирибати"
+    ],
+    "20251201_cocos-keeling-islands.md": [
+      "Кокосовые (Килинг) острова"
+    ],
+    "20251201_united-states-minor-outlying-islands.md": [
+      "Малые Тихоокеанские отдаленные острова Соединенных Штатов"
+    ],
+    "20251201_marshall-islands.md": [
+      "Маршалловы острова"
+    ],
+    "20251201_micronesia-federated-states-of.md": [
+      "Микронезия, Федеративные Штаты"
+    ],
+    "20251201_nauru.md": [
+      "Науру"
+    ],
+    "20251201_niue.md": [
+      "Ниуэ"
+    ],
+    "20251201_new-zealand.md": [
+      "Новая Зеландия"
+    ],
+    "20251201_new-caledonia.md": [
+      "Новая Каледония"
+    ],
+    "20251201_norfolk-island.md": [
+      "Остров Норфолк"
+    ],
+    "20251201_cook-islands.md": [
+      "Острова Кука"
+    ],
+    "20251201_palau.md": [
+      "Палау"
+    ],
+    "20251201_papua-new-guinea.md": [
+      "Папуа-Новая Гвинея"
+    ],
+    "20251201_pitcairn.md": [
+      "Питкерн"
+    ],
+    "20251201_samoa.md": [
+      "Самоа"
+    ],
+    "20251201_northern-mariana-islands.md": [
+      "Северные Марианские острова"
+    ],
+    "20251201_solomon-islands.md": [
+      "Соломоновы острова"
+    ],
+    "20251201_tokelau.md": [
+      "Токелау"
+    ],
+    "20251201_tonga.md": [
+      "Тонга"
+    ],
+    "20251201_tuvalu.md": [
+      "Тувалу"
+    ],
+    "20251201_wallis-and-futuna.md": [
+      "Уоллис и Футуна"
+    ],
+    "20251201_fiji.md": [
+      "Фиджи"
+    ],
+    "20251201_french-polynesia.md": [
+      "Французская Полинезия"
+    ],
+    "20251201_antarctica.md": [
+      "Антарктида"
+    ],
+    "20251201_bouvet-island.md": [
+      "Остров Буве"
+    ],
+    "20251201_heard-island-and-mcdonald-islands.md": [
+      "Остров Херд и острова Макдональд"
+    ],
+    "20251201_french-southern-territories.md": [
+      "Французские Южные территории"
+    ],
+    "20251201_south-georgia-and-the-south-sandwich-islands.md": [
+      "Южная Джорджия и Южные Сандвичевы острова"
+    ],
+    "20250101_road-signs-europe.md": [
+      "Дорожные знаки Европы"
+    ],
+    "20250101_road-signs-usa.md": [
+      "Дорожные знаки США"
+    ],
+    "20250101_road-signs-asia.md": [
+      "Дорожные знаки Азии"
+    ],
+    "20250101_architectural-styles.md": [
+      "Архитектурные стили"
+    ],
+    "20250101_roof-types.md": [
+      "Типы крыш"
+    ],
+    "20250101_building-materials.md": [
+      "Материалы строительства"
+    ],
+    "20250101_vegetation-regions.md": [
+      "Растительность по регионам"
+    ],
+    "20250101_tree-types.md": [
+      "Типы деревьев"
+    ],
+    "20250101_crops.md": [
+      "Сельскохозяйственные культуры"
+    ],
+    "20250101_landscape-types.md": [
+      "Типы ландшафта"
+    ],
+    "20250101_climate-zones.md": [
+      "Климатические зоны"
+    ],
+    "20250101_road-types.md": [
+      "Типы дорог"
+    ],
+    "20250101_power-poles.md": [
+      "Электрические столбы"
+    ],
+    "20250101_fence-types.md": [
+      "Типы ограждений"
+    ],
+    "20250101_languages-signs.md": [
+      "Языки на вывесках"
+    ],
+    "20250101_alphabets.md": [
+      "Алфавиты"
+    ],
+    "20250101_moc-countries.md": [
+      "MOC - Страны"
+    ],
+    "20250101_moc-cities.md": [
+      "MOC - Города"
+    ],
+    "20250101_moc-features.md": [
+      "MOC - Признаки"
+    ]
+  },
+  "files_linking_to": {
+    "20250101_moscow.md": [
+      "20250101_moc-cities.md",
+      "20250101_russia.md"
+    ],
+    "20250101_paris.md": [
+      "20250101_moc-cities.md"
+    ],
+    "20250101_london.md": [
+      "20250101_moc-cities.md"
+    ],
+    "20250101_berlin.md": [
+      "20250101_moc-cities.md"
+    ],
+    "20250101_rome.md": [
+      "20250101_moc-cities.md"
+    ],
+    "20250101_madrid.md": [
+      "20250101_moc-cities.md"
+    ],
+    "20250101_tokyo.md": [
+      "20250101_moc-cities.md"
+    ],
+    "20250101_beijing.md": [
+      "20250101_moc-cities.md"
+    ],
+    "20250101_bangkok.md": [
+      "20250101_moc-cities.md"
+    ],
+    "20250101_new-york.md": [
+      "20250101_moc-cities.md"
+    ],
+    "20250101_los-angeles.md": [
+      "20250101_moc-cities.md"
+    ],
+    "20250101_toronto.md": [
+      "20250101_moc-cities.md"
+    ],
+    "20250101_sydney.md": [
+      "20250101_moc-cities.md"
+    ],
+    "20250101_auckland.md": [
+      "20250101_moc-cities.md"
+    ],
+    "20251201_austria.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_albania.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_andorra.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_belarus.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_belgium.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_bulgaria.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_bosnia-and-herzegovina.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_hungary.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_germany.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_guernsey.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_gibraltar.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_greece.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_denmark.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_jersey.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_ireland.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_iceland.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_spain.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_italy.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_latvia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_lithuania.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_liechtenstein.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_luxembourg.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_malta.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_moldova.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_monaco.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_netherlands.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_norway.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_isle-of-man.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_holy-see-vatican-city-state.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_poland.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_portugal.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_macedonia-the-former-yugoslav-republic-of.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_russian-federation.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_romania.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_san-marino.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_serbia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_slovakia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_slovenia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_united-kingdom.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_ukraine.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_faroe-islands.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_finland.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_france.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_croatia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_montenegro.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_czech-republic.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_switzerland.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_sweden.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_svalbard-and-jan-mayen.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_åland-islands.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_estonia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_abkhazia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_azerbaijan.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_armenia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_afghanistan.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_bangladesh.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_bahrain.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_brunei-darussalam.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_bhutan.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_vietnam.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_hong-kong.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_georgia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_israel.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_india.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_indonesia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_jordan.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_iraq.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_iran-islamic-republic-of.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_yemen.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_kazakhstan.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_cambodia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_qatar.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_cyprus.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_kyrgyzstan.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_china.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_korea-democratic-peoples-republic-of.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_korea-republic-of.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_kuwait.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_lao-peoples-democratic-republic.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_lebanon.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_macao.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_malaysia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_maldives.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_mongolia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_myanmar.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_nepal.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_united-arab-emirates.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_oman.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_christmas-island.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_pakistan.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_palestinian-territory-occupied.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_saudi-arabia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_singapore.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_syrian-arab-republic.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_tajikistan.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_thailand.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_taiwan-province-of-china.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_timor-leste.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_turkmenistan.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_turkey.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_uzbekistan.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_philippines.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_sri-lanka.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_south-ossetia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_japan.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_anguilla.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_antigua-and-barbuda.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_argentina.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_aruba.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_bahamas.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_barbados.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_belize.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_bermuda.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_bolivia-plurinational-state-of.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_bonaire-sint-eustatius-and-saba.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_brazil.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_venezuela.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_virgin-islands-british.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_virgin-islands-us.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_haiti.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_guyana.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_guadeloupe.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_guatemala.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_honduras.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_grenada.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_greenland.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_dominica.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_dominican-republic.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_canada.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_colombia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_costa-rica.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_cuba.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_curaçao.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_martinique.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_mexico.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_montserrat.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_nicaragua.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_cayman-islands.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_turks-and-caicos-islands.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_panama.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_paraguay.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_peru.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_puerto-rico.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_saint-barthélemy.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_saint-martin-french-part.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_saint-vincent-and-the-grenadines.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_saint-kitts-and-nevis.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_saint-lucia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_saint-pierre-and-miquelon.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_sint-maarten.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_united-states.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_suriname.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_trinidad-and-tobago.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_uruguay.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_falkland-islands-malvinas.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_french-guiana.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_chile.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_ecuador.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_el-salvador.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_jamaica.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_algeria.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_angola.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_benin.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_botswana.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_burkina-faso.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_burundi.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_gabon.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_gambia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_ghana.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_guinea.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_guinea-bissau.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_djibouti.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_egypt.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_zambia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_western-sahara.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_zimbabwe.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_cape-verde.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_cameroon.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_kenya.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_comoros.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_congo.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_congo-democratic-republic-of-the.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_cote-divoire.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_lesotho.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_liberia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_libyan-arab-jamahiriya.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_mauritius.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_mauritania.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_madagascar.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_mayotte.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_malawi.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_mali.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_morocco.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_mozambique.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_namibia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_niger.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_nigeria.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_reunion.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_rwanda.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_sao-tome-and-principe.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_saint-helena-ascension-and-tristan-da-cunha.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_seychelles.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_senegal.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_somalia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_sudan.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_sierra-leone.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_tanzania-united-republic-of.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_togo.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_tunisia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_uganda.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_central-african-republic.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_chad.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_equatorial-guinea.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_eritrea.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_eswatini.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_ethiopia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_south-africa.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_south-sudan.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_australia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_american-samoa.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_british-indian-ocean-territory.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_vanuatu.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_guam.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_kiribati.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_cocos-keeling-islands.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_united-states-minor-outlying-islands.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_marshall-islands.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_micronesia-federated-states-of.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_nauru.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_niue.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_new-zealand.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_new-caledonia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_norfolk-island.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_cook-islands.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_palau.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_papua-new-guinea.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_pitcairn.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_samoa.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_northern-mariana-islands.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_solomon-islands.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_tokelau.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_tonga.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_tuvalu.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_wallis-and-futuna.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_fiji.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_french-polynesia.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_antarctica.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_bouvet-island.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_heard-island-and-mcdonald-islands.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_french-southern-territories.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20251201_south-georgia-and-the-south-sandwich-islands.md": [
+      "20250101_moc-countries.md"
+    ],
+    "20250101_road-signs-europe.md": [
+      "20250101_moc-features.md",
+      "20250101_russia.md"
+    ],
+    "20250101_road-signs-usa.md": [
+      "20250101_moc-features.md"
+    ],
+    "20250101_road-signs-asia.md": [
+      "20250101_moc-features.md"
+    ],
+    "20250101_architectural-styles.md": [
+      "20250101_moc-features.md",
+      "20250101_russia.md"
+    ],
+    "20250101_roof-types.md": [
+      "20250101_moc-features.md"
+    ],
+    "20250101_building-materials.md": [
+      "20250101_moc-features.md"
+    ],
+    "20250101_vegetation-regions.md": [
+      "20250101_moc-features.md"
+    ],
+    "20250101_tree-types.md": [
+      "20250101_moc-features.md"
+    ],
+    "20250101_crops.md": [
+      "20250101_moc-features.md"
+    ],
+    "20250101_landscape-types.md": [
+      "20250101_moc-features.md"
+    ],
+    "20250101_climate-zones.md": [
+      "20250101_moc-features.md"
+    ],
+    "20250101_road-types.md": [
+      "20250101_moc-features.md"
+    ],
+    "20250101_power-poles.md": [
+      "20250101_moc-features.md"
+    ],
+    "20250101_fence-types.md": [
+      "20250101_moc-features.md"
+    ],
+    "20250101_languages-signs.md": [
+      "20250101_moc-features.md"
+    ],
+    "20250101_alphabets.md": [
+      "20250101_moc-features.md"
+    ],
+    "20250101_moc-countries.md": [
+      "20250101_moc-map-of-content-geography.md"
+    ],
+    "20250101_moc-cities.md": [
+      "20250101_moc-map-of-content-geography.md"
+    ],
+    "20250101_moc-features.md": [
+      "20250101_moc-map-of-content-geography.md"
+    ]
+  },
+  "statistics": {
+    "total_existing_notes": 255,
+    "total_linked_files": 284,
+    "total_broken_links": 30,
+    "total_broken_link_mentions": 30
+  }
+}
