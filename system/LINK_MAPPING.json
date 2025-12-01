@@ -346,6 +346,31 @@
     ],
     "20250101_alphabets.md": [
       "Алфавиты"
+    ],
+    "20250101_vienna.md": [
+      "Вена",
+      "Вены",
+      "Вене"
+    ],
+    "20250101_linz.md": [
+      "Линца",
+      "Линц",
+      "Линце"
+    ],
+    "20250101_salzburg.md": [
+      "Зальцбурге",
+      "Зальцбург"
+    ],
+    "20250101_graz.md": [
+      "Граце",
+      "Грац"
+    ],
+    "20250101_innsbruck.md": [
+      "Инсбрук",
+      "Инсбруке"
+    ],
+    "20250101_klagenfurt.md": [
+      "Клагенфурт"
     ]
   },
   "all_links": {
@@ -416,7 +441,8 @@
       "Венгрия"
     ],
     "20251201_germany.md": [
-      "Германия"
+      "Германия",
+      "Германии"
     ],
     "20251201_guernsey.md": [
       "Гернси"
@@ -443,7 +469,8 @@
       "Испания"
     ],
     "20251201_italy.md": [
-      "Италия"
+      "Италия",
+      "Италией"
     ],
     "20251201_latvia.md": [
       "Латвия"
@@ -527,10 +554,12 @@
       "Черногория"
     ],
     "20251201_czech-republic.md": [
-      "Чешская Республика"
+      "Чешская Республика",
+      "Чехия"
     ],
     "20251201_switzerland.md": [
-      "Швейцария"
+      "Швейцария",
+      "Швейцарией"
     ],
     "20251201_sweden.md": [
       "Швеция"
@@ -1200,6 +1229,31 @@
     ],
     "20250101_moc-features.md": [
       "MOC - Признаки"
+    ],
+    "20250101_vienna.md": [
+      "Вена",
+      "Вены",
+      "Вене"
+    ],
+    "20250101_linz.md": [
+      "Линца",
+      "Линц",
+      "Линце"
+    ],
+    "20250101_salzburg.md": [
+      "Зальцбурге",
+      "Зальцбург"
+    ],
+    "20250101_graz.md": [
+      "Граце",
+      "Грац"
+    ],
+    "20250101_innsbruck.md": [
+      "Инсбрук",
+      "Инсбруке"
+    ],
+    "20250101_klagenfurt.md": [
+      "Клагенфурт"
     ]
   },
   "files_linking_to": {
@@ -1268,10 +1322,12 @@
       "20250101_moc-countries.md"
     ],
     "20251201_hungary.md": [
-      "20250101_moc-countries.md"
+      "20250101_moc-countries.md",
+      "20251201_austria.md"
     ],
     "20251201_germany.md": [
-      "20250101_moc-countries.md"
+      "20250101_moc-countries.md",
+      "20251201_austria.md"
     ],
     "20251201_guernsey.md": [
       "20250101_moc-countries.md"
@@ -1298,7 +1354,8 @@
       "20250101_moc-countries.md"
     ],
     "20251201_italy.md": [
-      "20250101_moc-countries.md"
+      "20250101_moc-countries.md",
+      "20251201_austria.md"
     ],
     "20251201_latvia.md": [
       "20250101_moc-countries.md"
@@ -1307,7 +1364,8 @@
       "20250101_moc-countries.md"
     ],
     "20251201_liechtenstein.md": [
-      "20250101_moc-countries.md"
+      "20250101_moc-countries.md",
+      "20251201_austria.md"
     ],
     "20251201_luxembourg.md": [
       "20250101_moc-countries.md"
@@ -1355,10 +1413,12 @@
       "20250101_moc-countries.md"
     ],
     "20251201_slovakia.md": [
-      "20250101_moc-countries.md"
+      "20250101_moc-countries.md",
+      "20251201_austria.md"
     ],
     "20251201_slovenia.md": [
-      "20250101_moc-countries.md"
+      "20250101_moc-countries.md",
+      "20251201_austria.md"
     ],
     "20251201_united-kingdom.md": [
       "20250101_moc-countries.md"
@@ -1379,13 +1439,16 @@
       "20250101_moc-countries.md"
     ],
     "20251201_montenegro.md": [
-      "20250101_moc-countries.md"
+      "20250101_moc-countries.md",
+      "20251201_austria.md"
     ],
     "20251201_czech-republic.md": [
-      "20250101_moc-countries.md"
+      "20250101_moc-countries.md",
+      "20251201_austria.md"
     ],
     "20251201_switzerland.md": [
-      "20250101_moc-countries.md"
+      "20250101_moc-countries.md",
+      "20251201_austria.md"
     ],
     "20251201_sweden.md": [
       "20250101_moc-countries.md"
@@ -2057,12 +2120,30 @@
     ],
     "20250101_moc-features.md": [
       "20250101_moc-map-of-content-geography.md"
+    ],
+    "20250101_vienna.md": [
+      "20251201_austria.md"
+    ],
+    "20250101_linz.md": [
+      "20251201_austria.md"
+    ],
+    "20250101_salzburg.md": [
+      "20251201_austria.md"
+    ],
+    "20250101_graz.md": [
+      "20251201_austria.md"
+    ],
+    "20250101_innsbruck.md": [
+      "20251201_austria.md"
+    ],
+    "20250101_klagenfurt.md": [
+      "20251201_austria.md"
     ]
   },
   "statistics": {
     "total_existing_notes": 255,
-    "total_linked_files": 284,
-    "total_broken_links": 30,
-    "total_broken_link_mentions": 30
+    "total_linked_files": 290,
+    "total_broken_links": 36,
+    "total_broken_link_mentions": 43
   }
 }
